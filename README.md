@@ -12,54 +12,9 @@ A passionate software developer from Algeria 🇩🇿
 
 <br/>
 
-<h3 align="center">Frontend</h3>
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,mui" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,mui,nodejs,django,python,mysql,docker,git,github,vscode,figma,c,cpp" />
 </div>
-
-<br/>
-
-<h3 align="center">Backend & Database</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,mysql,docker" />
-</div>
-
-<br/>
-
-<h3 align="center">Programming</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
-</div>
-
-<br/>
-
-<h3 align="center">Tools</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" />
-</div>
-
-<br/>
-
-<h3 align="center">Other Tools I Use</h3>
-
-<div align="center">
-
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-black?style=for-the-badge&logo=capcut&logoColor=white)
-![Affinity](https://img.shields.io/badge/Affinity-7E4DD2?style=for-the-badge)
-![OBS](https://img.shields.io/badge/OBS-black?style=for-the-badge&logo=obsstudio)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-black?style=for-the-badge)
-
-</div>
-
-<br/>
-<hr/>
 
 <!--
 **TheAbdouIlyes/TheAbdouIlyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
