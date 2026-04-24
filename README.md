@@ -13,7 +13,7 @@ A passionate software developer from Algeria 🇩🇿
 <br/>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,java,js,react,nextjs,mui,nodejs,django,python,mysql,docker,git,github,vscode,figma,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,mui,nodejs,django,python,java,mysql,docker,git,github,vscode,figma,electron,obsidian,c,cpp" />
 </div>
 
 <!--
