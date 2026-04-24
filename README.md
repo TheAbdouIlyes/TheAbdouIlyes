@@ -16,36 +16,32 @@ A passionate software developer from Algeria 🇩🇿
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,mui,nodejs,django,python,java,mysql,docker,git,github,vscode,figma,electron,obsidian,c,cpp" />
 </div>
 
-<!--
-**TheAbdouIlyes/TheAbdouIlyes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-
-  <!-- Light mode -->
-  <img
-    src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg#gh-light-mode-only"
-    alt="github contribution snake animation"
-  />
-
-  <!-- Dark mode -->
-  <img
-    src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
-    alt="github contribution snake animation dark"
-  />
-
-  <br><br><br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAbdouIlyes&theme=tokyonight&border_radius=12"/>
+  
+  <br/>
+  
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=TheAbdouIlyes&show_icons=true&count_private=true&theme=tokyonight&rank_icon=github&border_radius=12"/>
+
+  <br/>
+
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheAbdouIlyes&layout=compact&theme=tokyonight&border_radius=12"/>
+</div>
+
+
+
+
+
+
+
