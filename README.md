@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+  <!-- <h2>🐍 My Contributions 🐍</h2>
+  <br> -->
 
   <!-- Light mode -->
   <img
