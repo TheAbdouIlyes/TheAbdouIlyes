@@ -47,10 +47,12 @@ const abdouIlyes = {
 
 ### ⚡ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,django,java,c,cpp&perline=6&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,mysql,vscode,electron,figma&perline=7&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,django,java,c,linux,cpp&perline=6&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,mysql,ubuntu,redhat,vscode,electron,figma&perline=&theme=dark" />
 
+<br/><br/> 
 </div>
+
 
 ---
 
@@ -124,7 +126,7 @@ const abdouIlyes = {
 │                                                             │
 │   Clean code > clever code.                                 │
 │   Ship early. Iterate often.                                │
-│   Simplicity scales better than complexity.                 │
+│   Simplicity > complexity.                                  │
 │   The best architecture is the one your team understands.   │
 │   Every bug is a lesson in disguise.                        │
 │                                                             │
