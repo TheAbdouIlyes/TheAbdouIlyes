@@ -47,7 +47,7 @@ const abdouIlyes = {
 
 ### ⚡ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,django,java,c,cpp&perline=6&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,django,java,c,cpp&perline=6&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=docker,git,github,mysql,vscode,electron,figma&perline=7&theme=dark" />
 
 </div>
