@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=60&lines=Building+the+future%2C+one+commit+at+a+time.;Full-Stack+%7C+AI+%7C+Security+%7C+DevOps;Code+is+poetry+written+in+logic.;TypeScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Django;Always+learning.+Always+shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=60&lines=Building+the+future%2C+one+commit+at+a+time.;Full-Stack+%7C+AI+%7C+Security+%7C+DevOps;Code+is+poetry+written+in+logic.;javaScript+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+Django;Always+learning.+Always+shipping." alt="Typing SVG" />
 </a>
 
 <br/>
