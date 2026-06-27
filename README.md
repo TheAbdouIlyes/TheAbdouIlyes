@@ -80,11 +80,13 @@ const abdouIlyes = {
 <div align="center">
 
 ### 📊 GitHub Analytics
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheAbdouIlyes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_radius=10&count_private=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAbdouIlyes&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&border_radius=10" />
 <br/>
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=TheAbdouIlyes&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheAbdouIlyes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_radius=10&count_private=true" />
+
+
+<br/>
+<!-- <img width="49%" src="https://github-profile-trophy.vercel.app/?username=TheAbdouIlyes&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" /> -->
 
 </div>
 
