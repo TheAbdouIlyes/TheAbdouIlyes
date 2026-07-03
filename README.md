@@ -92,7 +92,7 @@ const abdouIlyes = {
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 ### 🐍 Contribution Snake
 
@@ -100,13 +100,13 @@ const abdouIlyes = {
 
 </div>
 
----
+--- -->
 
 <div align="center">
 
 ### 📈 Activity Graph
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=TheAbdouIlyes&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&area_color=1a1b27&hide_border=true&radius=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheAbdouIlyes&bg_color=0d1117&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&area_color=1a1b27&hide_border=true&radius=8" />
 
 </div>
 
