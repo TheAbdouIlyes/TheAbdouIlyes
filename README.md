@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <!-- ANIMATED BANNER -->
@@ -16,7 +17,7 @@
   &nbsp;
   <img src="https://img.shields.io/github/followers/TheAbdouIlyes?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-9ece6a?style=flat-square&labelColor=1a1b27" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-9ece6a?style=flat-square&labelColor=1a1b27" alt="Open to Work" />
 </p>
 
 </div>
@@ -47,14 +48,19 @@ const abdouIlyes = {
 
 ### ⚡ Tech Arsenal
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,django,java,c,linux,cpp&perline=6&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,github,mysql,postman,ubuntu,redhat,vscode,electron,mui&perline=10&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,django,java,c,linux,cpp&perline=6&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,mysql,postman,ubuntu,redhat,vscode,electron,mui&perline=10&theme=dark" />
+
+<br/>
+
 <img src="https://skillicons.dev/icons?i=vite,figma,obsidian&perline=10&theme=dark" />
 
+<br/><br/>
 
-<br/><br/> 
 </div>
-
 
 ---
 
@@ -66,8 +72,8 @@ const abdouIlyes = {
 |:---:|:---|
 | **Editor** | VSCode · Obsidian |
 | **Runtime** | Node.js · Python |
-| **Containers** | Docker · Docker Compose · Proxmox · Oracle virtualbox |
-| **Design** | Figma · Excalidraw · Affinity · canva |
+| **Containers** | Docker · Docker Compose · Proxmox · Oracle VirtualBox |
+| **Design** | Figma · Excalidraw · Affinity · Canva |
 | **Version Control** | Git · GitHub |
 | **Databases** | MySQL · SQLite |
 | **Desktop Apps** | Electron |
@@ -80,19 +86,28 @@ const abdouIlyes = {
 <div align="center">
 
 ### 📊 GitHub Analytics
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheAbdouIlyes&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&border_radius=10" />
-<br/>
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=TheAbdouIlyes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_radius=10&count_private=true" />
 
+<!-- GITHUB STREAK -->
+<img width="49%" src="https://streak-stats.demolab.com/?user=TheAbdouIlyes&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" />
 
-<br/>
-<!-- <img width="49%" src="https://github-profile-trophy.vercel.app/?username=TheAbdouIlyes&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" />
+<br/><br/>
+
+<!-- GITHUB STATS -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheAbdouIlyes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_radius=10" />
+
+<!-- GITHUB TROPHIES (DISABLED FOR NOW) -->
+<!--
+<br/><br/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=TheAbdouIlyes&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" />
+-->
 
 </div>
 
 ---
 
-<!-- <div align="center">
+<!-- CONTRIBUTION SNAKE (DISABLED FOR NOW) -->
+<!--
+<div align="center">
 
 ### 🐍 Contribution Snake
 
@@ -100,7 +115,8 @@ const abdouIlyes = {
 
 </div>
 
---- -->
+---
+-->
 
 <div align="center">
 
@@ -114,7 +130,6 @@ const abdouIlyes = {
 
 ### 🚀 Featured Projects
 
-
 > _"Projects speak louder than resumes."_
 >
 > Explore all repositories → **[github.com/TheAbdouIlyes](https://github.com/TheAbdouIlyes?tab=repositories)**
@@ -125,7 +140,7 @@ const abdouIlyes = {
 
 <div align="center">
 
-```
+```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │   Clean code > clever code.                                 │
@@ -140,14 +155,18 @@ const abdouIlyes = {
 </div>
 
 ---
+
 <!--
 ### 🌐 Connect
 
- <div align="center"> 
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-TheAbdouIlyes-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5&labelColor=0d1117)](https://github.com/TheAbdouIlyes)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27)](https://www.linkedin.com/in/TheAbdouIlyes)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9ece6a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27)](https://github.com/TheAbdouIlyes)
+
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-f7768e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27)](mailto:contact@theabdouilyes.dev)
 
 </div>
@@ -165,17 +184,16 @@ const abdouIlyes = {
 
 ---
 
-<div >
-  
+<div>
+
 ### 💬 Final Quote
-  
+
 ```txt
 " sahal sahal "
-                 — John Quanta
-````
+                   — John Quanta
+```
 
 </div>
-
 
 ---
 
