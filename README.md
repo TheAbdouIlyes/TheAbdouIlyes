@@ -32,8 +32,8 @@ const abdouIlyes = {
   alias     : "TheAbdouIlyes",
   role      : "Full-Stack Software Engineer",
   location  : "Algeria 🇩🇿",
-  focus     : ["Web Engineering", "AI Integration", "Security"],
-  currently : "Architecting scalable systems & exploring LLMs",
+  focus     : ["Web Engineering", "Networking", "Security"],
+  currently : "Architecting scalable systems & exploring",
   available : true,
   coffee    : "☕ always + tea 🍵 is better",
 };
@@ -86,7 +86,7 @@ const abdouIlyes = {
 
 
 <br/>
-<!-- <img width="49%" src="https://github-profile-trophy.vercel.app/?username=TheAbdouIlyes&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" /> -->
+<!-- <img width="49%" src="https://github-profile-trophy.vercel.app/?username=TheAbdouIlyes&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=6&margin-h=6" />
 
 </div>
 
