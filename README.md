@@ -56,7 +56,7 @@ const abdouIlyes = {
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=vite,figma,obsidian&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=godot,vite,figma,obsidian&perline=10&theme=dark" />
 
 <br/><br/>
 
