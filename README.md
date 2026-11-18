@@ -52,11 +52,11 @@ const abdouIlyes = {
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,mysql,postman,ubuntu,redhat,vscode,electron,mui&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,mysql,flask,vscode,electron,mui,sqlite,postman&perline=10&theme=dark" />
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=godot,vite,figma,obsidian&perline=10&theme=dark" />
+<img src="https://skillicons.dev/icons?i=godot,vite,kali,arch,ubuntu,redhat,figma,obsidian&perline=10&theme=dark" />
 
 <br/><br/>
 
