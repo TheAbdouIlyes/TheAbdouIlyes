@@ -89,9 +89,7 @@ const abdouIlyes = {
 
 <!-- GITHUB STREAK -->
 <img width="49%" src="https://streak-stats.demolab.com/?user=TheAbdouIlyes&theme=tokyonight&hide_border=true&background=0d1117&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7" />
-
 <br/><br/>
-
 <!-- GITHUB STATS -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheAbdouIlyes&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=7dcfff&text_color=c0caf5&border_radius=10" />
 
